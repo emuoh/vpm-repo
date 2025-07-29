@@ -13,7 +13,7 @@
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
-    "githubRepos":[
+    "githubRepos":{
         "emuoh/VPM-PortablFireAlarmSystem"
-    ]
+    }
 }
