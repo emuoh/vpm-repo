@@ -1,5 +1,5 @@
 {
-    "name":"emuoh s package Listing",
+    "name":"emuoh's VPM packages",
     "id":"com.github.emuoh.vpm",
     "url":"https://emuoh.github.io/vpm-repos/index.json",
     "author":{
@@ -7,7 +7,7 @@
         "name":"emuoh",
         "url":"https://x.com/emuoh3"
     },
-    "description":"emuoh s listing of VRChat packages",
+    "description":"emuoh's listing of VRChat packages",
     "infoLink":{
         "url":"http://github.com/emuoh/vpm-repos",
         "text":"View on GitHub"
