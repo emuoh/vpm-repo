@@ -1,9 +1,9 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
+    "name":"emuoh's package Listing",
+    "id":"com.github.emuoh.vpm",
     "url":"https://emuoh.github.io/vpm-repo/index.json",
     "author":{
-        "email":"utimizu.square@gmail.com",
+        "email":"",
         "name":"emuoh",
         "url":"https://x.com/emuoh3"
     },
@@ -15,5 +15,7 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "emuoh/VPM-PortablFireAlarmSystem"
-    ] 
+    ] ,
+    packages":[
+    ]
 }
