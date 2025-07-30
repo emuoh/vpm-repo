@@ -1,7 +1,14 @@
-
 # LICENSE
 
-このリポジトリに含まれるすべてのパッケージ（3Dモデル、ギミック、スクリプトなど）は、以下の条件に基づき利用が許可されます。
+※[emuoh's パッケージ利用規約による許諾範囲の簡易一覧](https://github.com/emuoh/vpm-repos/blob/main/License/20250731010912vn3license_ja.pdf)の方もご覧ください。
+Please also see a [brief list of the scope of permission under emuoh's packaging terms of use](https://github.com/emuoh/vpm-repos/blob/main/License/20250731010912vn3license_en.pdf).
+
+[emuoh's 패키지 이용 약관에 의한 허락 범위의 간이 일람도 봐 주세요](https://github.com/emuoh/vpm-repos/blob/main/License/20250731010912vn3license_ko.pdf)
+
+[另请参阅 emuoh 包装使用条款下的许可范围简要列表](https://github.com/emuoh/vpm-repos/blob/main/License/20250731010912vn3license_zh.pdf)。
+
+
+このリポジトリに含まれるすべてのパッケージ（3Dモデル、ギミック、スクリプトなど、emuoh'sパッケージと呼称します）は、以下の条件に基づき利用が許可されます。
 
 ---
 
@@ -16,8 +23,10 @@
 ## 2. 禁止事項
 
 - 本パッケージを単体・未加工で再販・転売する行為。
+- 改変が著しく少ない場合(パッケージの概要等の記載内容と何ら変化のない改変)の再配布。
 - 公序良俗に反する用途への利用。
 - 法律に反する用途への利用。
+- 政治的活動への利用。
 - 再配布時にライセンスを同梱しない行為。
 
 ---
@@ -28,7 +37,6 @@
 
 ```
 © 2025 emuoh or えむお～
-Based on VN3 License Template (https://www.vn3.org/)
 ```
 
 ---
@@ -50,5 +58,6 @@ Based on VN3 License Template (https://www.vn3.org/)
 
 ## 6. ライセンスの位置づけ
 
-このライセンスは、VN3 ライセンス Ver.1.10 に準拠した形式をベースに、VPM リポジトリおよび GitHub 公開用途向けに調整されています。
+このライセンスは、VN3 ライセンス Ver.1.10 に準拠した形式をベースに、VPM リポジトリおよび GitHub 公開用途または配布サイト向けに調整されています。
+
 
