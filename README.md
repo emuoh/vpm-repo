@@ -16,8 +16,8 @@ You will also be notified when you upgrade to the latest version, so it's easy t
 以下のパッケージが含まれています：  
 The following packages are included:
 
-- [携帯型火災報知器](https://github.com/emuoh/PortablFireAlarmSystem/tree/main) : 首掛け型の軽量火災報知器です。  
-  [Portable Fire Alarm System](https://github.com/emuoh/PortablFireAlarmSystem/tree/main): A lightweight neck-worn fire alarm system.
+- [携帯型火災報知器](https://github.com/emuoh/PortablFireAlarmSystem/tree/main) : 首掛け型の火災報知器です。  
+  [Portable Fire Alarm System](https://github.com/emuoh/PortablFireAlarmSystem/tree/main/EN_README.md): A lightweight neck-worn fire alarm system.
 
 - その他随時追加予定...  
   More packages will be added soon...
