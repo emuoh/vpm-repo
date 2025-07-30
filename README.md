@@ -20,9 +20,9 @@ You will also be notified when the latest version is released, making it easy to
 
 This repository distributes the following packages:
 
-- [携帯型火災報知器](https://github.com/emuoh/PortableFireAlarmSystem/tree/main) : VRChat アバター向けの首掛け型の火災報知器ギミックです。  
+- [携帯型火災報知器](https://github.com/emuoh/PortableFireAlarmSystem) : VRChat アバター向けの首掛け型の火災報知器ギミックです。  
 
-  [Portable Fire Alarm System](https://github.com/emuoh/PortableFireAlarmSystem/tree/main/EN_README.md): A lightweight neck-worn fire alarm system for VRChat Avatars.
+  [Portable Fire Alarm System](https://github.com/emuoh/PortableFireAlarmSystem/tree): A lightweight neck-worn fire alarm system for VRChat Avatars.
 
 - その他随時追加予定...  
 
