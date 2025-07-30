@@ -31,7 +31,7 @@ This repository distributes the following packages:
 ### ✅ 方法①：VCC（VRChat Creator Companion）を使用する  
 ### ✅ Method 1: Using VCC (VRChat Creator Companion)
 
-1. VCCを開き、Settingsを選択
+1. VCCを開き、Settingsを選択 
    Open VCC and select Settings
 
 2. Packagesを選択し「+ Add Repository」から以下のURLを追加：  
@@ -41,10 +41,10 @@ This repository distributes the following packages:
 https://emuoh.github.io/vpm-repos/vpm.json
 ```
 
-3. VCCの起動時の画面からインストールしたいプロジェクトのManage Projectを選択
+3. VCCの起動時の画面からインストールしたいプロジェクトのManage Projectを選択 
     Select Manage Project from the VCC startup screen for the project you want to install
 
-4. 「Add Package (VPM)」ボタンをクリック  
+4. 「Add Package (VPM)」ボタンをクリック 
     Click the "Add Package (VPM)" button.  
 
 5. 「Selected Repos」からemuohで検索、インストールしたいパッケージ右側にある「(+) (Add Package)」を選択すると、パッケージがインストールされる 
@@ -59,7 +59,7 @@ https://emuoh.github.io/vpm-repos/vpm.json
 1. ALCOM開き、「パッケージ＆テンプレート」を選択 
    Open ALCOM and select "Package&Templates"
    
-2. 「リポジトリを追加」を選択
+2. 「リポジトリを追加」を選択 
    Click "Add Repository" from the menu
    
 3. 以下のURLを追加:
@@ -78,7 +78,7 @@ https://emuoh.github.io/vpm-repos/vpm.json
 6. 「パッケージ管理」の検索バーから"emuoh"で検索してインストールしたいパッケージにチェックを入れる 
     Search for "emuoh" in the "package management" search bar and check the package you want to install
 
-7. 「選択した物をインストール」を選択すると、パッケージがインストールされる
+7. 「選択した物をインストール」を選択すると、パッケージがインストールされる 
     Select "Install Selected" to install the package.
 
 
@@ -88,10 +88,10 @@ https://emuoh.github.io/vpm-repos/vpm.json
 各パッケージのライセンスは[VN3ライセンス](https://www.vn3.org/)を採用しています。  
 Each packages use the [VN3 License](https://www.vn3.org/) License.
 
-パッケージ間で共通のライセンス[(LICENSE.md)](https://github.com/emuoh/vpm-repos/blob/main/LICENSE.md)となります。
+パッケージ間で共通のライセンス[(LICENSE.md)](https://github.com/emuoh/vpm-repos/blob/main/LICENSE.md)となります 
 The license (LICENSE.md) is common across all packages.
 
-パッケージ内で個別に記載されている場合はそのパッケージ内のライセンスを優先します。
+パッケージ内で個別に記載されている場合はそのパッケージ内のライセンスを優先します 
 If a license is specified individually within a package, the license within that package takes precedence.
 
 ---
