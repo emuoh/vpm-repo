@@ -1,6 +1,7 @@
 # LICENSE
 
 ※[emuoh's パッケージ利用規約による許諾範囲の簡易一覧](https://github.com/emuoh/vpm-repos/blob/main/License/20250731010912vn3license_ja.pdf)の方もご覧ください。
+
 Please also see a [brief list of the scope of permission under emuoh's packaging terms of use](https://github.com/emuoh/vpm-repos/blob/main/License/20250731010912vn3license_en.pdf).
 
 [emuoh's 패키지 이용 약관에 의한 허락 범위의 간이 일람도 봐 주세요](https://github.com/emuoh/vpm-repos/blob/main/License/20250731010912vn3license_ko.pdf)
