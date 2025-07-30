@@ -1,9 +1,11 @@
+
+
 # emuoh VPM Repository
 ここは emuoh(えむお～) の VRChat 用ギミック・ツールなどを配布する VPM (VRChat Package Manager) リポジトリです。  
 This is a emuoh's VPM (VRChat Package Manager) repository for distributing gimmicks and tools for VRChat.
 
 booth等でも配布していますが、こちらから簡単に導入することができます。 
-また最新版が配布されると通知されますのでのバージョンアップも簡単に行えます。
+また最新版が配布されると通知されますのでのバージョンアップも簡単に行えます。 
 It is also distributed on booth, but you can easily install it from here. 
 You will also be notified when the latest version is released, making it easy to upgrade.
 
@@ -12,8 +14,8 @@ You will also be notified when the latest version is released, making it easy to
 ## 📦 パッケージ一覧  
 ## 📦 Package List
 
-以下のパッケージが含まれています：  
-The following packages are included:
+このリポジトリでは以下のパッケージを配布しています：  
+This repository distributes the following packages:
 
 - [携帯型火災報知器](https://github.com/emuoh/PortableFireAlarmSystem/tree/main) : VRChat アバター向けの首掛け型の火災報知器ギミックです。  
   [Portable Fire Alarm System](https://github.com/emuoh/PortableFireAlarmSystem/tree/main/EN_README.md): A lightweight neck-worn fire alarm system for VRChat Avatars.
@@ -45,7 +47,7 @@ https://emuoh.github.io/vpm-repos/vpm.json
 4. 「Add Package (VPM)」ボタンをクリック  
     Click the "Add Package (VPM)" button.  
 
-5. 「Selected Repos」からemuohで検索、インストールしたいパッケージ右側にある「(+) (Add Package)」を選択すると、パッケージがインストールされる
+5. 「Selected Repos」からemuohで検索、インストールしたいパッケージ右側にある「(+) (Add Package)」を選択すると、パッケージがインストールされる 
     Search for emuoh in "Selected Repos", and select "(+) (Add Package)" to the right of the package you want to install, and the package will be installed.
 
 
@@ -70,10 +72,10 @@ https://emuoh.github.io/vpm-repos/vpm.json
 4. インストールしたいパッケージを選択して「Add」をクリック 
     Select the package you want to install and click "Add"
 
-5. ALCOMの起動時の画面からインストールしたいプロジェクトの「管理」を選択する
+5. ALCOMの起動時の画面からインストールしたいプロジェクトの「管理」を選択する 
     Select "Manage" for the project you want to install from the ALCOM startup screen
 
-6. 「パッケージ管理」の検索バーから"emuoh"で検索してインストールしたいパッケージにチェックを入れる
+6. 「パッケージ管理」の検索バーから"emuoh"で検索してインストールしたいパッケージにチェックを入れる 
     Search for "emuoh" in the "package management" search bar and check the package you want to install
 
 7. 「選択した物をインストール」を選択すると、パッケージがインストールされる
