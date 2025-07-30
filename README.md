@@ -31,23 +31,23 @@ This repository distributes the following packages:
 ### ✅ 方法①：VCC（VRChat Creator Companion）を使用する  
 ### ✅ Method 1: Using VCC (VRChat Creator Companion)
 
-1. VCCを開き、Settingsを選択 
+1. VCCを開き、Settingsを選択
    Open VCC and select Settings
 
-2. Packagesを選択し「+ Add Repository」から以下のURLを追加：  
+3. Packagesを選択し「+ Add Repository」から以下のURLを追加：
    Select "Packages", then Click "+ Add Repository" and add the following URL:
 
 ```
 https://emuoh.github.io/vpm-repos/vpm.json
 ```
 
-3. VCCの起動時の画面からインストールしたいプロジェクトのManage Projectを選択 
+3. VCCの起動時の画面からインストールしたいプロジェクトのManage Projectを選択
     Select Manage Project from the VCC startup screen for the project you want to install
 
-4. 「Add Package (VPM)」ボタンをクリック 
+4. 「Add Package (VPM)」ボタンをクリック
     Click the "Add Package (VPM)" button.  
 
-5. 「Selected Repos」からemuohで検索、インストールしたいパッケージ右側にある「(+) (Add Package)」を選択すると、パッケージがインストールされる 
+5. 「Selected Repos」からemuohで検索、インストールしたいパッケージ右側にある「(+) (Add Package)」を選択すると、パッケージがインストールされる
     Search for emuoh in "Selected Repos", and select "(+) (Add Package)" to the right of the package you want to install, and the package will be installed.
 
 
