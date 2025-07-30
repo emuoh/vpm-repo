@@ -1,60 +1,86 @@
 
 # emuoh VPM Repository
-
 これは VRChat 用ギミック・ツールなどを配布する VPM (VRChat Package Manager) リポジトリです。  
-Modular Avatar や Unity Package を簡単に導入することができます。
+This is a VPM (VRChat Package Manager) repository for distributing gimmicks and tools for VRChat.
+
+Modular Avatar や Unity Package を簡単に導入することができます。  
+You can easily install Modular Avatars and Unity packages.
 
 ---
 
-## 📦 パッケージ一覧
+## 📦 パッケージ一覧  
+## 📦 Package List
 
-以下のパッケージが含まれています：
+以下のパッケージが含まれています：  
+The following packages are included:
 
-- `[携帯型火災報知器](https://github.com/emuoh/PortablFireAlarmSystem/tree/main) : 首掛け型の軽量火災報知器です。
-- その他随時追加予定...
+- [携帯型火災報知器](https://github.com/emuoh/PortablFireAlarmSystem/tree/main) : 首掛け型の軽量火災報知器です。  
+  [Portable Fire Alarm System](https://github.com/emuoh/PortablFireAlarmSystem/tree/main): A lightweight neck-worn fire alarm system.
+
+- その他随時追加予定...  
+  More packages will be added soon...
 
 ---
 
-## 🧩 インストール方法
+## 🧩 インストール方法  
+## 🧩 Installation Instructions
 
-### ✅ 方法①：VCC（VRChat Creator Companion）を使用する
+### ✅ 方法①：VCC（VRChat Creator Companion）を使用する  
+### ✅ Method 1: Using VCC (VRChat Creator Companion)
 
-1. VCC を開き、プロジェクトを選択
-2. 「Add Package (VPM)」ボタンをクリック
-3. 「+ Add Repository」から以下のURLを追加：
+1. VCC を開き、プロジェクトを選択  
+   Open VCC and select your project.  
+2. 「Add Package (VPM)」ボタンをクリック  
+   Click the "Add Package (VPM)" button.  
+3. 「+ Add Repository」から以下のURLを追加：  
+   Click "+ Add Repository" and add the following URL:
 
 ```
 https://emuoh.github.io/vpm-repos/vpm.json
 ```
 
-4. パッケージを検索して「Add」をクリック
+4. パッケージを検索して「Add」をクリック  
+   Search for the package and click "Add".
 
 ---
 
-### ✅ 方法②：ALCOM 経由で追加する
+### ✅ 方法②：ALCOM 経由で追加する  
+### ✅ Method 2: Add via ALCOM
 
-1. [ALCOM公式サイト](https://vpm.alcom.dev) を開く
-2. 「emuoh」で検索し、目的のパッケージを選択
-3. 「Install in VCC」ボタンを押す
+1. [ALCOM公式サイト](https://vpm.alcom.dev) を開く  
+   Open the [ALCOM official site](https://vpm.alcom.dev).  
+2. 「emuoh」で検索し、目的のパッケージを選択  
+   Search for "emuoh" and select the desired package.  
+3. 「Install in VCC」ボタンを押す  
+   Click the "Install in VCC" button.
 
 ---
 
-## 📜 ライセンス
+## 📜 ライセンス  
+## 📜 License
 
 各パッケージのライセンスは個別に設定されています。  
-多くは [VN3ライセンス](https://vn3.dev/) または MIT ライセンスを採用しています。
+Each package has its own license.
+
+多くは [VN3ライセンス](https://vn3.dev/) または MIT ライセンスを採用しています。  
+Most packages use the [VN3 License](https://vn3.dev/) or the MIT License.
 
 ---
 
-## 🛠 サポート・連絡先
+## 🛠 サポート・連絡先  
+## 🛠 Support & Contact
 
-- Booth: [https://emuoh.booth.pm](https://emuoh.booth.pm)
-- GitHub: [https://github.com/emuoh](https://github.com/emuoh)
-- X / Twitter: [@emuoh_vr](https://twitter.com/emuoh_vr)
+- Booth: [https://emuoh3.booth.pm](https://emuoh3.booth.pm)  
+- GitHub: [https://github.com/emuoh](https://github.com/emuoh)  
+- X / Twitter: [https://x.com/emuoh3](https://twitter.com/emuoh_vr)
 
 ---
 
-## 🧷 備考
+## 🧷 備考  
+## 🧷 Notes
 
-- このリポジトリは GitHub Pages でホスティングされています。
-- Unity 2022.3.22f1 + VRCSDK3 対応を基本としています。
+- このリポジトリは GitHub Pages でホスティングされています。  
+  This repository is hosted via GitHub Pages.
+
+- Unity 2022.3.22f1 + VRCSDK3 対応を基本としています。  
+  The base environment is Unity 2022.3.22f1 + VRCSDK3.
