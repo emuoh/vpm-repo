@@ -56,7 +56,7 @@ https://emuoh.github.io/vpm-repos/vpm.json
 ### ✅ 方法②：ALCOM を使用する  
 ### ✅ Method 2: Use ALCOM
 
-1. ALCOM開き、「パッケージ＆テンプレート」を選択
+1. ALCOM開き、「パッケージ＆テンプレート」を選択 
    Open ALCOM and select "Package&Templates"
    
 2. 「リポジトリを追加」を選択
