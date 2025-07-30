@@ -1,3 +1,4 @@
+
 # emuoh VPM Repository
 ここは emuoh(えむお～) の VRChat 用ギミック・ツールなどを配布する VPM (VRChat Package Manager) リポジトリです。  
 This is a emuoh's VPM (VRChat Package Manager) repository for distributing gimmicks and tools for VRChat.
@@ -84,10 +85,11 @@ https://emuoh.github.io/vpm-repos/vpm.json
 各パッケージのライセンスは[VN3ライセンス](https://www.vn3.org/) ライセンスを採用しています。  
 Each packages use the [VN3 License](https://www.vn3.org/) License.
 
-パッケージ間で共通のライセンス(https://github.com/emuoh/vpm-repos/blob/main/LICENSE.md)となります。
+[パッケージ間で共通のライセンス(LICENSE.md)](https://github.com/emuoh/vpm-repos/blob/main/LICENSE.md)となります。
 
 パッケージ内で個別に記載されている場合はそのパッケージ内のライセンスを採用します。
 If the license is specified individually within a package, the license within that package will be used.
+
 ---
 
 ## 🛠 サポート・連絡先  
