@@ -1,10 +1,12 @@
 
 # emuoh VPM Repository
-これは VRChat 用ギミック・ツールなどを配布する VPM (VRChat Package Manager) リポジトリです。  
-This is a VPM (VRChat Package Manager) repository for distributing gimmicks and tools for VRChat.
+ここは emuoh(えむお～) の VRChat 用ギミック・ツールなどを配布する VPM (VRChat Package Manager) リポジトリです。  
+This is a emuoh's VPM (VRChat Package Manager) repository for distributing gimmicks and tools for VRChat.
 
-Modular Avatar や Unity Package を簡単に導入することができます。  
-You can easily install Modular Avatars and Unity packages.
+booth等でも配布していますが、こちらから簡単に導入することができます。 
+また最新版へのバージョンアップも通知されますので簡単に行えます。
+It is also distributed on booth, but you can easily install it from here. 
+You will also be notified when you upgrade to the latest version, so it's easy to do.
 
 ---
 
