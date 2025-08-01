@@ -106,11 +106,11 @@ https://emuoh.github.io/vpm-repos/vpm.json
 
 Each packages use the [VN3 License](https://www.vn3.org/) License.
 
-パッケージ間で共通のライセンス[(LICENSE.md)](https://github.com/emuoh/vpm-repos/blob/main/LICENSE.md)となります 
+各パッケージ間で共通のライセンス[(LICENSE.md)](https://github.com/emuoh/vpm-repos/blob/main/LICENSE.md)となります。 
 
 The license (LICENSE.md) is common across all packages.
 
-パッケージ内で個別に記載されている場合はそのパッケージ内のライセンスを優先します 
+パッケージ内で個別に記載されている場合はそのパッケージ内のライセンスが優先されます。 
 
 If a license is specified individually within a package, the license within that package takes precedence.
 
