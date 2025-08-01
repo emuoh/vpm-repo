@@ -34,7 +34,7 @@ Please also see a [brief list of the scope of permission under emuoh's packaging
 
 ## 3. クレジット表記（任意）
 
-再配布時には、以下のクレジットを表記することが推奨されます（必須ではありません）：
+再配布時には、以下のクレジットを表記することが推奨されます（必須ではありません）。
 
 ```
 © 2025 emuoh or えむお～
@@ -45,7 +45,7 @@ Please also see a [brief list of the scope of permission under emuoh's packaging
 ## 4. 免責事項
 
 - 本パッケージを使用して発生した損害・損失について、作者は一切責任を負いません。
-- 使用は自己責任で行ってください。
+- 自己責任の下でご使用ください。
 
 ---
 
