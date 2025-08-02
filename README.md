@@ -35,6 +35,7 @@ This repository distributes the following packages:
 ## 🧩 インストール方法  
 ## 🧩 Installation Instructions
 
+
 ### ✅ 方法①：VCC（VRChat Creator Companion）を使用する  
 ### ✅ Method 1: Using VCC (VRChat Creator Companion)
 
@@ -63,6 +64,7 @@ https://emuoh.github.io/vpm-repos/vpm.json
 ![enter image description here](https://github.com/emuoh/vpm-repos/blob/main/manual/VCC_3.png)
 
 ---
+
 
 ### ✅ 方法②：ALCOM を使用する  
 ### ✅ Method 2: Use ALCOM
