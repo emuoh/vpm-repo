@@ -103,7 +103,7 @@ https://emuoh.github.io/vpm-repos/vpm.json
 
 ### 6. 「選択した物をインストール」を選択すると、パッケージがインストールされる 
 
-###    Select "Install Selected" to install the package.
+###    Select "Install Selected" to install the package
 
 ![enter image description here](https://github.com/emuoh/vpm-repos/blob/main/manual/ALCOM_5.png)
 
