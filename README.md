@@ -52,11 +52,7 @@ https://emuoh.github.io/vpm-repos/vpm.json
 
     Select Manage Project from the VCC startup screen for the project you want to install
 
-4. 「Add Package (VPM)」ボタンをクリック
-
-    Click the "Add Package (VPM)" button.  
-
-5. 「Selected Repos」からemuohで検索、インストールしたいパッケージ右側にある「(+) (Add Package)」を選択すると、パッケージがインストールされる
+4. 「Selected Repos」からemuohで検索、インストールしたいパッケージ右側にある「(+) (Add Package)」を選択すると、パッケージがインストールされる
 
     Search for emuoh in "Selected Repos", and select "(+) (Add Package)" to the right of the package you want to install, and the package will be installed.
 
