@@ -1,5 +1,6 @@
 
 
+
 # emuoh VPM Repository
 ここは emuoh(えむお～) の VRChat 用ギミック・ツールなどを配布する VPM (VRChat Package Manager) リポジトリです。  
 
@@ -40,8 +41,8 @@ This repository distributes the following packages:
 
    Open VCC and select Settings
 
-3. Packagesを選択し「+ Add Repository」から以下のURLを追加：
-
+2. Packagesを選択し「+ Add Repository」から以下のURLを追加：
+![enter image description here](https://github.com/emuoh/vpm-repos/blob/main/manual/VCC_1.png)
    Select "Packages", then Click "+ Add Repository" and add the following URL:
 
 ```
@@ -51,11 +52,12 @@ https://emuoh.github.io/vpm-repos/vpm.json
 3. VCCの起動時の画面からインストールしたいプロジェクトのManage Projectを選択
 
     Select Manage Project from the VCC startup screen for the project you want to install
+![enter image description here](https://github.com/emuoh/vpm-repos/blob/main/manual/VCC_2.png)
 
 4. 「Selected Repos」からemuohで検索、インストールしたいパッケージ右側にある「(+) (Add Package)」を選択すると、パッケージがインストールされる
 
     Search for emuoh in "Selected Repos", and select "(+) (Add Package)" to the right of the package you want to install, and the package will be installed.
-
+![enter image description here](https://github.com/emuoh/vpm-repos/blob/main/manual/VCC_3.png)
 
 ---
 
@@ -66,34 +68,34 @@ https://emuoh.github.io/vpm-repos/vpm.json
 
    Open ALCOM and select "Package&Templates"
    
-2. 「リポジトリを追加」を選択 
+2. 「VPMリポジトリを追加」を選択 
 
-   Click "Add Repository" from the menu
+   Click "Add VPM Repository" from the menu
    
-3. 以下のURLを追加:
+3. 以下のURLを追加して「VPMリポジトリを追加」を選択、追加したリポジトリにチェックを入れる
 
-   Paste the following URL and confirm:
+   Paste the following URL and select "Add VPM Repository", and Check the repository you added
 
 ```
 https://emuoh.github.io/vpm-repos/vpm.json
 ```
+[vpm-repos/manual/VCC_1.png at main · emuoh/vpm-repos](https://github.com/emuoh/vpm-repos/blob/main/manual/ALCOM_2.png)
+![enter image description here](https://github.com/emuoh/vpm-repos/blob/main/manual/ALCOM_3.png)
 
-4. インストールしたいパッケージを選択して「Add」をクリック 
-
-    Select the package you want to install and click "Add"
-
-5. ALCOMの起動時の画面からインストールしたいプロジェクトの「管理」を選択する 
+4. ALCOMの起動時の画面からインストールしたいプロジェクトの「管理」を選択する 
 
     Select "Manage" for the project you want to install from the ALCOM startup screen
+![enter image description here](https://github.com/emuoh/vpm-repos/blob/main/manual/ALCOM_4.png)
 
-6. 「パッケージ管理」の検索バーから"emuoh"で検索してインストールしたいパッケージにチェックを入れる 
+5. 「パッケージ管理」の検索バーから"emuoh"で検索してインストールしたいパッケージにチェックを入れる 
 
     Search for "emuoh" in the "package management" search bar and check the package you want to install
 
-7. 「選択した物をインストール」を選択すると、パッケージがインストールされる 
+6. 「選択した物をインストール」を選択すると、パッケージがインストールされる 
 
     Select "Install Selected" to install the package.
 
+![enter image description here](https://github.com/emuoh/vpm-repos/blob/main/manual/ALCOM_5.png)
 
 ## 📜 ライセンス  
 ## 📜 License
@@ -129,3 +131,4 @@ If a license is specified individually within a package, the license within that
 
 - Unity 2022.3.22f1 + VRCSDK3 環境を基本としています。  
   The base environment is Unity 2022.3.22f1 + VRCSDK3.
+
