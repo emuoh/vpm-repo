@@ -70,11 +70,13 @@ https://emuoh.github.io/vpm-repos/vpm.json
 1. ALCOM開き、「パッケージ＆テンプレート」を選択 
 
    Open ALCOM and select "Package&Templates"
-   
+
 2. 「VPMリポジトリを追加」を選択 
 
    Click "Add VPM Repository" from the menu
-   
+
+![enter image description here](https://github.com/emuoh/vpm-repos/blob/main/manual/ALCOM_1.png)
+
 3. 以下のURLを追加して「VPMリポジトリを追加」を選択、追加したリポジトリにチェックを入れる
 
    Paste the following URL and select "Add VPM Repository", and Check the repository you added
@@ -84,6 +86,7 @@ https://emuoh.github.io/vpm-repos/vpm.json
 ```
 
 ![enter image description here](https://github.com/emuoh/vpm-repos/blob/main/manual/ALCOM_2.png)
+
 ![enter image description here](https://github.com/emuoh/vpm-repos/blob/main/manual/ALCOM_3.png)
 
 4. ALCOMの起動時の画面からインストールしたいプロジェクトの「管理」を選択する 
